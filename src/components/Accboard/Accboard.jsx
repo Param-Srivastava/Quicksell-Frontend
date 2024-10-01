@@ -1,6 +1,6 @@
 import './Accboard.css'
-import { IoMdAdd } from "react-icons/io";
-import { SlOptions } from "react-icons/sl";
+import { ReactComponent as Add } from "../../assets/add.svg";
+import { ReactComponent as Menu } from "../../assets/menu.svg";
 import Dispcard from '../dispcard/dispcard';
 import Iconus from '../Iconus/Iconus';
 import { inigenerate, inrancol, cardpriorities, Icstatus } from '../../accessories/avadata';
@@ -31,8 +31,8 @@ const Board = (props) => {
                         <span>{filteredTickets.length}</span>
                     </div>
                     <div className="board_top_options">
-                        <IoMdAdd />
-                        <SlOptions />
+                        <Add />
+                        <Menu />
                     </div>
                 </div>
                 <div className="board_container">
@@ -63,8 +63,8 @@ const Board = (props) => {
                         <span>{filteredTickets.length}</span>
                     </div>
                     <div className="board_top_options">
-                        <IoMdAdd />
-                        <SlOptions />
+                        <Add />
+                        <Menu />
                     </div>
                 </div>
                 <div className="board_container">
@@ -95,8 +95,8 @@ const Board = (props) => {
                     <span>{filteredTickets.length}</span>
                 </div>
                 <div className="board_top_options">
-                    <IoMdAdd />
-                    <SlOptions />
+                <Add />
+                <Menu />
                 </div>
             </div>
             <div className="board_container">

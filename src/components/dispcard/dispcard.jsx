@@ -1,5 +1,4 @@
 import './dispcard.css'
-
 import { FaCircle } from "react-icons/fa";
 import UserIcon from '../Iconus/Iconus';
 const Card = ({ ticket, user, icon, statusIcon, statusColor, bgColor }) => {
