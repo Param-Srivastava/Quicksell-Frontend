@@ -1,8 +1,8 @@
-# QuickSell Frontend Project by Param Srivastava
+# QuickSell Frontend Assignment by Param Srivastava
 
 ## Overview
 
-This project is a Kanban board application developed using ReactJS. It enables users to interact with ticket data retrieved from the **Quicksell API**. Users can organize and sort tickets based on various criteria, making it a flexible tool for managing projects. Check out the live version of the project at .
+This project is a Kanban board application developed using ReactJS. It enables users to interact with ticket data retrieved from the **Quicksell API**. Users can organize and sort tickets based on various criteria, making it a flexible tool for managing projects. Check out the live version of the project at [Link](https://quicksell-frontend-ashen.vercel.app/).
 
 ## Home page Look(Zoomed Out)
 
